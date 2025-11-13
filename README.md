@@ -60,7 +60,6 @@ CEO & Co-Founder
 
 - Former **DevOps Engineer** with hands-on cloud and automation expertise
 - **AWS Certified Solutions Architect – Associate**
-- **H4-EAD status** – no sponsorship required
 - Passionate about building solutions that are **scalable, secure, and smart**
 
 ---
