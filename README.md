@@ -71,7 +71,7 @@ CEO & Co-Founder
 - **LinkedIn:** [linkedin.com/in/sonamsingh1999](https://linkedin.com/in/sonamsingh1999)
 - **GitHub:** [github.com/sonamsingh](https://github.com/sonamsingh)
 
----
+-------------------------------------------------------------------------------------------------------------------------
 
 > 🎯 **Interested in working together?**  
 > We're open to **projects, partnerships, and technical collaborations**. Let’s build something great!
