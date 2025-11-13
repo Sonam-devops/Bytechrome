@@ -1,6 +1,6 @@
 # 🚀 ByteChrome Technologies LLC
 
-**AI • LLM • Cloud • DevOps Solutions**
+**AI • LLM • GenAI • ML • Cloud • DevOps Solutions**
 
 ---
 
@@ -16,6 +16,8 @@ We don’t just build components—we deliver **fully integrated solutions** fro
 
 ### 🤖 AI & LLM Solutions
 - Custom **Large Language Model (LLM)** integration
+- **Generative AI (GenAI)** applications and chatbots
+- **Machine Learning** model development and deployment
 - **Retrieval-Augmented Generation (RAG)** systems
 - AI workflow automation
 - Intelligent document processing
@@ -25,12 +27,14 @@ We don’t just build components—we deliver **fully integrated solutions** fro
 - **Infrastructure as Code** using Terraform
 - **CI/CD pipeline** development with Jenkins, Docker, and Kubernetes
 - Cloud cost optimization & security hardening
+- Container orchestration and microservices architecture
 
 ### ⚙️ Digital Transformation
 - Legacy system modernization
 - Microservices architecture
 - Scalable cloud-native applications
 - End-to-end project delivery
+- Automation and process optimization
 
 ---
 
@@ -46,10 +50,10 @@ We don’t just build components—we deliver **fully integrated solutions** fro
 
 ## 🛠️ Tech Stack
 
-**Cloud:** AWS, Azure  
-**DevOps:** Terraform, Jenkins, Docker, Kubernetes, Git  
-**AI/ML:** LLM, RAG, AI Workflows, Python  
-**Automation:** Python, Bash, YAML, GitHub Actions
+**Cloud:** AWS, Azure, Google Cloud Platform
+**DevOps:** Terraform, Jenkins, Docker, Docker Swarm, Kubernetes, Ansible, Git  
+**AI/ML:** LLM, GenAI, RAG, Python, TensorFlow, PyTorch, Scikit-learn, AI Workflows  
+**Automation:** Python, Bash, YAML, GitHub Actions, CI/CD Pipelines
 
 ---
 
